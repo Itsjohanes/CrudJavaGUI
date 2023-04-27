@@ -33,3 +33,13 @@ CREATE TABLE `product_hp` (
 
 Keterangan Tambahan:
 Tambahkan Dependencies mysql-connector-java-8.0.28.jar pada Project Baru anda
+
+
+
+--
+-- Link Youtube Tambahan untuk Class Diagram (Tambahkan UML Diagram Plugin)
+--
+===========================================================
+
+
+https://www.youtube.com/watch?v=UWe2usysWns
