@@ -37,9 +37,9 @@ Tambahkan Dependencies mysql-connector-java-8.0.28.jar pada Project Baru anda
 
 
 --
--- Link Youtube Tambahan untuk Class Diagram (Tambahkan UML Diagram Plugin)
+-- Github Easy UML Plugin
 --
 ===========================================================
 
 
-https://www.youtube.com/watch?v=UWe2usysWns
+https://github.com/mgeee35/easyUML
