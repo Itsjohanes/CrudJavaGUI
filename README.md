@@ -23,9 +23,7 @@ CREATE TABLE `product_hp` (
   `qty` int(4) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-ALTER TABLE `product_hp`
-  MODIFY `productId` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-COMMIT;
+Jangan Lupa Sesudah itu tambahkan Auto Increment Pada ProductId
 -- --------------------------------------------------------
  
 --
